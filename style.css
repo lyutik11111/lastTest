@@ -1,7 +1,7 @@
 h1{
   color: red;
   font-style: italic;
-  font-size: 2rem;
+  font-size: 28px;
 }
  body{
    background-color: bisque;
@@ -11,5 +11,4 @@ h1{
    font-size: 25px;
    font-weight: bold;
    font-style: italic;
-   letter-spacing: 3;
  }
